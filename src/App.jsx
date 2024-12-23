@@ -33,13 +33,12 @@ function App() {
           <Col>
             <hr />
             <p>Currently, I am pursuing a Bachelor's degree in Computer Science at <a href="https://www.cis.fiu.edu/degree/b-a-computer-science/" target="_blank" rel="noopener noreferrer">Florida International University (FIU)</a>, focusing on designing and coding interfaces for A.I. In addition to my studies, I work part-time as a Project Manager at <a href="https://www.fibextelecom.net/" target="_blank" rel="noopener noreferrer">Fibex Telecom</a>, where I oversee the development of an eCommerce platform. I actively apply Agile methodologies, and  utilize Microsoft Planner to drive projects forward.</p>
-            <br />
             <p>View my <a href="https://docs.google.com/document/d/1POiSs9QtGwYVOjEl8TKktt1FmKUJLDv26pDQNHoiFNA/edit?usp=sharing" target="_blank" rel="noopener noreferrer">resume</a>.</p>
             <hr />
           </Col>
         </Row>
         <Row>
-          <p>Code:</p>
+          <p>I love the creative side of code and 3D animations on the web. Here are a couple of the experiments I have been working on lately:</p>
           <Col lg={6}>
             Phaser.js:
             <ul>
