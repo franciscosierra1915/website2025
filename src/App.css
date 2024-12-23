@@ -60,16 +60,17 @@ p {
 
 .social-media img {
   margin: 5px;
-  transition: transform 0.5s,
+  transform: scale(1);
+  transition: all 0.2s;
 }
 
 .social-media img:hover {
   transform: scale(1.2);
 }
 
-.about-me {
+/* .about-me {
   margin-bottom: 15px;
-}
+} */
 
 .headshot-container {
   display: flex;

@@ -18,14 +18,24 @@ function App() {
           </Col>
           <Col className="bio-container">
             <div className="bio">
-              <h1>Hello world :)</h1>
-              <p>My name is Francisco Sierra, but you can call me Frank! I'm a UX Developer who loves 3D animations on the web. I write code that merges these things.</p>
+              <h1>Francisco Sierra</h1>
+              <p>I am a User Experience Developer passionate about digital gardening and funcitonal programming.</p>
+              <p></p>
               <div className="social-media">
                 <a href="https://www.linkedin.com/in/francisco-sierra-munoz/" target="_blank" rel="noopener noreferrer"><img src={linkedin} alt="LinkedIN icon" /></a>
                 <a href="https://github.com/franciscosierra1915" target="_blank" rel="noopener noreferrer"><img src={github} alt="Github icon" /></a>
                 <a href="https://twitter.com/franksierra_" target="_blank" rel="noopener noreferrer"><img src={twitter} alt="Twitter icon" /></a>
               </div>
             </div>
+          </Col>
+        </Row>
+        <Row>
+          <Col>
+            <hr />
+            <p>Currently, I am pursuing a Bachelor's degree in Computer Science at <a href="https://www.cis.fiu.edu/degree/b-a-computer-science/" target="_blank" rel="noopener noreferrer">Florida International University (FIU)</a>, focusing on designing and coding interfaces for A.I. In addition to my studies, I work part-time as a Project Manager at <a href="https://www.fibextelecom.net/" target="_blank" rel="noopener noreferrer">Fibex Telecom</a>, where I oversee the development of an eCommerce platform. I actively apply Agile methodologies, and  utilize Microsoft Planner to drive projects forward.</p>
+            <br />
+            <p>View my <a href="https://docs.google.com/document/d/1POiSs9QtGwYVOjEl8TKktt1FmKUJLDv26pDQNHoiFNA/edit?usp=sharing" target="_blank" rel="noopener noreferrer">resume</a>.</p>
+            <hr />
           </Col>
         </Row>
         <Row>
