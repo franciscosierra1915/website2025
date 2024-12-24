@@ -54,9 +54,9 @@ li a:hover {
   transform: scale(1.02)
 }
 
-p {
+/* p {
   margin-bottom: 0 !important;
-}
+} */
 
 .social-media img {
   margin: 5px;

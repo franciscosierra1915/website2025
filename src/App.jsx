@@ -19,7 +19,7 @@ function App() {
           <Col className="bio-container">
             <div className="bio">
               <h1>Francisco Sierra</h1>
-              <p>I am a User Experience Developer passionate about digital gardening and funcitonal programming.</p>
+              <p>I am a User Experience Developer passionate about digital gardening and functional programming.</p>
               <p></p>
               <div className="social-media">
                 <a href="https://www.linkedin.com/in/francisco-sierra-munoz/" target="_blank" rel="noopener noreferrer"><img src={linkedin} alt="LinkedIN icon" /></a>
@@ -38,7 +38,13 @@ function App() {
           </Col>
         </Row>
         <Row>
-          <p>I love the creative side of code and 3D animations on the web. Here are a couple of the experiments I have been working on lately:</p>
+          <Col>
+            <p>My <a href="https://docs.google.com/document/d/1POiSs9QtGwYVOjEl8TKktt1FmKUJLDv26pDQNHoiFNA/edit?usp=sharing" target="_blank" rel="noopener noreferrer">digital garden</a> is a curated collection of evolving notes and lists that reflect my interests and curiosities. It’s home to my favorite books, audiobooks, movies, TV shows, podcasts, theater productions, photographers, and blogs. I also tend to a collection of meaningful quotes that I regularly prune and cultivate, alongside an 'anti-library'—a list of works I’m fascinated by but have yet to explore. This garden flourishes in Notion, a tool I’ve trusted and enjoyed for over five years now.</p>
+            <hr />
+          </Col>
+        </Row>
+        <Row>
+          <p>I love the creative side of code and 3D animations on the web. Here are some of the experiments I have been working on lately:</p>
           <Col lg={6}>
             Phaser.js:
             <ul>
