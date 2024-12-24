@@ -33,13 +33,13 @@ function App() {
           <Col>
             <hr />
             <p>Currently, I am pursuing a Bachelor's degree in Computer Science at <a href="https://www.cis.fiu.edu/degree/b-a-computer-science/" target="_blank" rel="noopener noreferrer">Florida International University (FIU)</a>, focusing on designing and coding interfaces for A.I. In addition to my studies, I work part-time as a Project Manager at <a href="https://www.fibextelecom.net/" target="_blank" rel="noopener noreferrer">Fibex Telecom</a>, where I oversee the development of an eCommerce platform. I actively apply Agile methodologies, and  utilize Microsoft Planner to drive projects forward.</p>
-            <p>View my <a href="https://docs.google.com/document/d/1POiSs9QtGwYVOjEl8TKktt1FmKUJLDv26pDQNHoiFNA/edit?usp=sharing" target="_blank" rel="noopener noreferrer">resume</a>.</p>
+            <p>View my <a href="https://docs.google.com/document/d/1b9gumNaMtXWJgmzTUnxxeia7UNM9Tm3ZQdKJd-p9Lww/edit?usp=sharing" target="_blank" rel="noopener noreferrer">resume</a>.</p>
             <hr />
           </Col>
         </Row>
         <Row>
           <Col>
-            <p>My <a href="https://docs.google.com/document/d/1POiSs9QtGwYVOjEl8TKktt1FmKUJLDv26pDQNHoiFNA/edit?usp=sharing" target="_blank" rel="noopener noreferrer">digital garden</a> is a curated collection of evolving notes and lists that reflect my interests and curiosities. It’s home to my favorite books, audiobooks, movies, TV shows, podcasts, theater productions, photographers, and blogs. I also tend to a collection of meaningful quotes that I regularly prune and cultivate, alongside an 'anti-library'—a list of works I’m fascinated by but have yet to explore. This garden flourishes in Notion, a tool I’ve trusted and enjoyed for over five years now.</p>
+            <p>My <a href="https://tricky-salsa-a9e.notion.site/Digital-Garden-5f056e76a6b0486f97fd6383d134bd1e?pvs=74" target="_blank" rel="noopener noreferrer">digital garden</a> is a curated collection of evolving notes and lists that reflect my interests and curiosities. It’s home to my favorite books, audiobooks, movies, TV shows, podcasts, theater productions, photographers, and blogs. I also tend to a collection of meaningful quotes that I regularly prune and cultivate, alongside an 'anti-library'—a list of works I’m fascinated by but have yet to explore. This garden flourishes in Notion, a tool I’ve trusted and enjoyed for over five years now.</p>
             <hr />
           </Col>
         </Row>
