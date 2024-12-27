@@ -33,6 +33,7 @@ function App() {
           <Col>
             <hr />
             <p>Currently, I am pursuing a Bachelor's degree in Computer Science at <a href="https://www.cis.fiu.edu/degree/b-a-computer-science/" target="_blank" rel="noopener noreferrer">Florida International University (FIU)</a>, focusing on designing and coding interfaces for A.I. In addition to my studies, I work part-time as a Project Manager at <a href="https://www.fibextelecom.net/" target="_blank" rel="noopener noreferrer">Fibex Telecom</a>, where I oversee the development of an eCommerce platform. I actively apply Agile methodologies, and  utilize Microsoft Planner to drive projects forward.</p>
+            <p>Previously, I worked as a User Experience Developer at <a href="https://www.adcetera.com/" target="_blank" rel="noopener noreferrer">Adcetera</a>, a full-service digital marketing agency, where I honed my skills in crafting user-centered digital experiences. Before transitioning into tech, I served as a Lead Video Editor at <a href="https://vimeo.com/anaphotovideo" target="_blank" rel="noopener noreferrer">A&A Video Productions</a>, a full-service audio-visual production company, where I brought stories to life through creative and technical expertise. </p>
             <p>View my <a href="https://docs.google.com/document/d/1b9gumNaMtXWJgmzTUnxxeia7UNM9Tm3ZQdKJd-p9Lww/edit?usp=sharing" target="_blank" rel="noopener noreferrer">resume</a>.</p>
             <hr />
           </Col>
